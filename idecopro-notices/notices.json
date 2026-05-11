@@ -1,0 +1,18 @@
+{
+    "messages": [
+      {
+        "id": "dive4time-launch-2026-05",
+        "title": "New App: Dive4Time",
+        "body": "Check out my new dive app, Dive4Time.",
+        "url": "https://bit.ly/dive4time",
+        "url_label": "Check It Out"
+      },
+      {
+        "id": "idecopro-v4-released",
+        "title": "iDeco Pro 4.0",
+        "body": "New UI and a parity-tested deco engine. Update today.",
+        "url": "https://apps.apple.com/app/id<your-app-id>",
+        "url_label": "Open App Store"
+      }
+    ]
+  }
